@@ -4354,4 +4354,3 @@ local win = VLib:Window("MagMaHub", "Blox Fruit", Color3.fromRGB(252, 83, 83))
      Setting:Button("Destroy Gui",function()
         Library:Destroy()
      end)
-end
